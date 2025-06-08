@@ -4,7 +4,7 @@ import os
 import re
 import sklearn.metrics as metrics
 import numpy as np
-import stanfordnlp
+import stanza
 import pandas as pd
 from bllipparser import RerankingParser
 from nltk import Tree
